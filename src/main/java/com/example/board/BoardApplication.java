@@ -9,6 +9,7 @@ public class BoardApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BoardApplication.class, args);
 		System.out.println("a");
+		System.out.println("b");
 		System.out.println("안녕");
 	
 		System.out.println("수정 중 커밋 안함");
