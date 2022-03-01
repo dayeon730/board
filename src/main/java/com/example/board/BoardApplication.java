@@ -12,10 +12,8 @@ public class BoardApplication {
 		System.out.println("b");
 		System.out.println("안녕");
 	
-		System.out.println("수정 중 커밋 안함");
-		System.out.println("수정 중 커밋 안함");
-		System.out.println("수정 중 커밋 안함");
-		System.out.println("수정 중 커밋 안함");
+		System.out.println("수정 중 커밋");
+		
 	}
 
 }
